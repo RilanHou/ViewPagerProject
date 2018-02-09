@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#cccccc"/> <!--图标未被选中时的颜色-->
+    <item android:state_selected="true" android:color="#4dd0c8"/> <!--当图标被选中（点击、触发）时的颜色-->
+    <item android:state_pressed="true" android:color="#4dd0c8"/> <!--当图标被“按”中时的颜色-->
+</selector>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPagerProject</string>
+    <string name="home">首页</string>
+    <string name="message">消息</string>
+    <string name="me">我的</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+</resources>
